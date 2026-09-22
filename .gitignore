@@ -1,0 +1,13 @@
+```
+# Compressed files
+*.zip
+
+# Environment files
+.env.local
+
+# Editor/IDE files
+.vscode/
+
+# Logs
+*.log
+```

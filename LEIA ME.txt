@@ -1,8 +1,0 @@
-Gerado em Z Ai
-Toe1
-Segundo update
-pnpm install
-pnpm run build && npx cap sync android && npx cap open android
-
-Faça bumper (não sei o que é bumper)
-www/version.json
